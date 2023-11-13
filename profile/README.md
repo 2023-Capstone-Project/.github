@@ -17,7 +17,8 @@
 <br />
 
 ## 💻 Architecture
-![image](https://github.com/2023-Capstone-Project/.github/assets/87460638/6a5dbfb1-f4f0-491f-a107-bd801daa5e56)
+![image](https://github.com/2023-Capstone-Project/.github/assets/87460638/5dba90c9-5305-467b-8b7c-11e4b47671dc)
+
 
 <br />
 
